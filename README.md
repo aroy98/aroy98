@@ -1,5 +1,6 @@
 <!-- Header Image -->
 <!--  <img src="https://github.com/Amitdey13/Amitdey13/blob/master/GithubCover.gif?raw=true" alt="Header Image"/> -->
+<img src="https://github.com/aroy98/aroy98/blob/main/cover.gif" alt="Header Image"/>
 
 Feel free to contact me in any case and if I will be able, I will be happy to help you 🙂.
 
