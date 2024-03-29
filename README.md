@@ -43,11 +43,11 @@ Feel free to contact me in any case and if I will be able, I will be happy to he
 
 
 ## GitHub Stats
-&ensp;!Your Contributions
-&emsp;!Your GitHub stats
+&ensp;![Your Contributions](https://github-readme-streak-stats.herokuapp.com/?user=aroy98&show_icons=true&theme=transparent)
+&emsp;![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=aroy98&show_icons=true&theme=transparent&rank_icon=github)
 
 ## Top Languages
-!Top Langs
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aroy98&show_icons=true&theme=transparent&layout=donut)
 
 ## Trophy
-![Your Trophy Case](https://github-profile-trophy.vercel.app/?username=aroy98&theme=darkhub&margin-w=15&column=5&margin-h=15)
+![Your Trophy Case](https://github-profile-trophy.vercel.app/?username=aroy98&margin-w=15&column=5&margin-h=15)
