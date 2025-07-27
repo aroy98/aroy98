@@ -1,54 +1,151 @@
-<!-- Header Image -->
-<!--  <img src="https://github.com/Amitdey13/Amitdey13/blob/master/GithubCover.gif?raw=true" alt="Header Image"/> -->
-<img src="https://github.com/aroy98/aroy98/blob/main/cover.gif" alt="Header Image"/>
+# Hi there, I'm Akash Roy 👋
 
-Feel free to contact me in any case and if I will be able, I will be happy to help you 🙂.
+## 🚀 Software Development Lead & Full-Stack Engineer
 
-<!--!Profile Views-->
+With 6 years of experience leading software development lifecycles, I specialize in delivering innovative solutions through full-stack development, cloud architecture, and DevOps automation. Currently serving as a Software Development Lead at Digital Avenues Infotech Pvt. Ltd., where I drive projects from conception to deployment.
 
-[![Gmail](https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail)](mailto:akash.roy@digitalavenues.com)
-&ensp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/akash-roy-979402203/)
+### 🔗 Connect with me
+- 📧 Email: akashr.me.official@gmail.com
+- 📱 Phone: +91 8013519539
+- 💼 LinkedIn: [linkedin.com/in/akash-roy-979402203](https://linkedin.com/in/akash-roy-979402203)
+- 📍 Location: Kolkata, India
 
-## Skills
-### Programming Languages
-&emsp;<img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript Logo" width="50" height="50">
-&emsp;<img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python Logo" width="50" height="50">
-&emsp;<img src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++ Logo" width="50" height="50">
+---
 
-### Frameworks
-&emsp;<img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React Logo" width="50" height="50"> 
-&emsp;<img src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png" alt="Angular Logo" width="50" height="50"> 
-&emsp;<img src="https://user-images.githubusercontent.com/62091613/261395532-b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35.png" alt="Vite Logo" width="50" height="50"> 
-&emsp;<img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js Logo" width="50" height="50"> 
-&emsp;<img src="https://user-images.githubusercontent.com/136815194/273370085-519bfaf3-c242-431e-a269-876979f05574.png" alt="NestJs Logo" width="50" height="50">
-&emsp;<img src="https://user-images.githubusercontent.com/25181517/187070862-03888f18-2e63-4332-95fb-3ba4f2708e59.png" alt="WebSocket Logo" width="50" height="50">
+## 💼 Professional Experience
+
+### Software Development Lead | Digital Avenues Infotech Pvt. Ltd.
+**January 2021 - Present**
+- Leading complete SDLC processes from planning to deployment
+- Developing wireframes and POCs for new features and tech integrations
+- Managing full-stack development and DevOps operations
+- Ensuring seamless project delivery and efficient workflows
+
+### Software Engineer | Digital Avenues Ltd.
+**January 2019 - December 2020**
+- Active participation in software development lifecycle
+- Front-end development and cloud infrastructure management
+- Cross-functional team collaboration for feature integration
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+### Languages & Frameworks
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![SonarQube](https://img.shields.io/badge/-SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
 
 ### Databases
-&emsp;<img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL Logo" width="50" height="50"> 
-&emsp;<img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL Logo" width="50" height="50"> 
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-### Cloud Platforms
-&emsp;<img src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS Logo" width="50" height="50"> 
-&emsp;<img src="https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png" alt="GCP Logo" width="50" height="50"> 
-&emsp;<img src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" alt="Firebase Logo" width="50" height="50"> 
+### Specializations
+- 🔐 **KYC & Payment Integration** (Jumio, Crypto payments)
+- ⛓️ **Blockchain Development** (NEAR Protocol)
+- 🤖 **AI Integration** (ChatGPT, Custom AI models)
+- 🔄 **DevOps & Automation** (CI/CD, Load balancers, Domain mapping)
+- ☁️ **Cloud Architecture** (AWS Amplify, Cognito, CDN)
+- 🔍 **Search Enhancement** (Algolia integration)
 
-### Tools
-&emsp;<img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git Logo" width="50" height="50"> 
-&emsp;<img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub Logo" width="50" height="50"> 
-&emsp;<img src="https://user-images.githubusercontent.com/25181517/192108375-268c35e6-ab26-44b2-88bf-e3121a4e5083.png" alt="Bitbucket Logo" width="50" height="50">
-&emsp;<img src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" alt="Jira Logo" width="50" height="50">
-&emsp;<img src="https://user-images.githubusercontent.com/25181517/184146221-671413cb-b1ae-47db-a232-b37c99281516.png" alt="SonarQube Logo" width="50" height="50">
+---
 
-<!-- ### Authentication -->
-<!-- <img src="https://example.com/auth0-logo.png" alt="Auth0 Logo" width="50" height="50">  -->
+## 🚀 Featured Projects
 
+### 🏦 BankRollU
+**September 2024 - Present**
+- Leading KYC and payment integration processes
+- Developing wireframes and POCs for financial solutions
+- Implementing secure payment workflows
 
-## GitHub Stats
-&ensp;![Your Contributions](https://github-readme-streak-stats.herokuapp.com/?user=aroy98&show_icons=true&theme=transparent)
-&emsp;![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=aroy98&show_icons=true&theme=transparent&rank_icon=github)
+### ⚡ KRONOS | BEESY STRATEGY
+**May 2024 - Present**
+- DevOps engineering: Server setup, load balancers, domain mapping
+- CI/CD pipeline establishment with automated deployment
+- SonarQube integration for code quality assurance
+- Cron jobs and ICS calendar integrations
 
-## Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aroy98&show_icons=true&theme=transparent&layout=donut)
+### 🧠 SAM | BEESY STRATEGY
+**November 2023 - Present**
+- Complete DevOps infrastructure setup
+- Jenkins configuration and CI/CD implementation
+- AI model integration for MVP features
+- Security group configuration for selective user access
+- Sonix integration for data processing automation
 
-## Trophy
-![Your Trophy Case](https://github-profile-trophy.vercel.app/?username=aroy98&margin-w=15&column=5&margin-h=15)
+### 🌏 e-xpat | Resident Vietnam
+**January 2020 - Present**
+- Full-stack development with complex form dependencies
+- Role-based access control implementation
+- DevOps infrastructure: AWS Cognito, CDN, server configurations
+- Work orders, invoices, and reporting systems
+
+### 📊 Datality
+**August 2020 - July 2024**
+- Blockchain data validation using NEAR Protocol standards
+- Crypto payment and escrow system implementation
+- Algolia search functionality enhancement
+- ChatGPT integration for improved search capabilities
+
+---
+
+## 🎓 Education
+
+**Bachelor of Technology in Computer Science & Engineering**  
+Maulana Abul Kalam Azad University of Technology, West Bengal  
+**CGPA: 9.06** | **Year: 2023**
+
+---
+
+## 📈 GitHub Stats
+
+![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+
+---
+
+## 🏆 Key Achievements
+
+- ✅ Successfully led multiple full-stack projects from conception to deployment
+- ✅ Implemented secure blockchain solutions with transparency tracking
+- ✅ Established robust CI/CD pipelines reducing deployment time by 70%
+- ✅ Integrated AI solutions eliminating manual processes in enterprise applications
+- ✅ Built scalable cloud architectures handling 50k+ email processing
+- ✅ Delivered KYC and payment integration solutions for fintech platforms
+
+---
+
+## 🔍 Currently Working On
+
+- 🏦 Advanced KYC and payment integration solutions
+- ⚡ DevOps automation and infrastructure optimization
+- 🤖 AI-driven processing capabilities
+- ⛓️ Blockchain transparency and security implementations
+
+---
+
+## 📫 Let's Collaborate!
+
+I'm always open to discussing:
+- Full-stack development projects
+- Cloud architecture and DevOps solutions
+- Blockchain and fintech innovations
+- AI integration opportunities
+- Technical leadership and mentoring
+
+**Feel free to reach out for collaborations, discussions, or just to connect!**
+
+---
+
+⭐ **If you find my work interesting, please consider giving my repositories a star!**
